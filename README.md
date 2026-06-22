@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-fuego-intenso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Labios de fuego intenso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fuego-intenso/) |
+| **Get License** | [Commercial Licensing for Labios de fuego intenso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fuego-intenso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios de fuego intenso me tienen volando, yeah
+> En medio de la disco, shorty, me estás tentando
+> Esa mirada tuya sabe lo que estoy buscando
+> Una noche salvaje y los dos sudando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
