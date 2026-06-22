@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-fuego-intenso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Labios de fuego intenso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fuego-intenso/) |
+| **Get License** | [Request Licensing for Labios de fuego intenso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fuego-intenso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d64839bfa221716f550b352d257916cbc4e1622a1e876d3a42d44cc079371aa9` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
